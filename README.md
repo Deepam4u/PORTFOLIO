@@ -2,6 +2,8 @@
 
 This is a portfolio website built with Next.js, Tailwind CSS, and Framer Motion.
 
+Live : [Portfolio](https://portfolio-ds-eta.vercel.app/)
+
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/) -  A React-based web framework for building server-side rendering and static websites.

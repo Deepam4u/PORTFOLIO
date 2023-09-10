@@ -7,7 +7,7 @@
         "content": "Nexts was used to create the portfolio website. TailwindCSS and Framer motion were used to style the website. Sanity is utilised as a content management system.",
         "imgurl": "/projectSS/portfolio.png",
         "githubLink": "https://github.com/Deepam4u/PORTFOLIO",
-        "deployedLink": "https://portfolio-ds.onrender.com",
+        "deployedLink": "https://portfolio-ds-eta.vercel.app/",
         "tech": [
           {
             "tech": "/skillsLogos/next-js.png"

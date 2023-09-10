@@ -60,7 +60,7 @@ export default function Hero({}: Props) {
             </button>
           </Link>
 
-          <Link href={"https://drive.google.com/file/d/11PokBR1FevJuOeF8ceb3XDjqX77_JUv6/view?usp=sharing"} target="_blank" download={true}>
+          <Link href={"https://drive.google.com/file/d/1Hp1HShpvlV80jq-sKAzPPVoyHRnrcEl9/view?usp=sharing"} target="_blank" download={true}>
             <button className="heroButton bg-slate-500/20 backdrop-blur-sm">
               resume
             </button>
